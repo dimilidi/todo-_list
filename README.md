@@ -31,7 +31,7 @@ To run this project, install it locally using npm:
 
 ```
 $ git clone git@github.com:dimilidi/todo_list.git
-$ cd ../todo
+$ cd todo_list
 $ npm install
 $ npx expo start
 ```
